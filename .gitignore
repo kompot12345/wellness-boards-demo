@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+**/.env
+
+# Builds
+client/dist
+server/dist
+
+# DB
+server/wellness.db
+server/*.db
+server/*.db-journal
